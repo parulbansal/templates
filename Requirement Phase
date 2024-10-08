@@ -1,0 +1,54 @@
+Requirements Gathering and Analysis Template
+  1. Project Overview
+      Project Name:
+      Date:
+      Prepared by:
+      Stakeholders: (List of key stakeholders)
+  2. Objective
+      Project Goals: (Brief description of the main objectives of the project)
+      Success Criteria: (How will success be measured?)
+  3. User Base
+      Total Users: (Estimated or actual number of users)
+      Geographic Distribution: (Regions where users are located)
+      North America
+      Asia
+      Europe
+      Australia
+      User Demographics: (Age, gender, profession, etc.)
+      User Personas:
+      Persona Name: (Define key user groups)
+      Description: (Demographics, characteristics, etc.)
+      Needs: (What are their needs or pain points?)
+      Goals: (What do they hope to achieve by using the application?)
+  4. Functional Requirements
+      Feature/Functionality: (Name of the feature)
+      Description: (Detailed explanation of what this feature does)
+      User Stories: (Define user stories for this feature)
+      Example: "As a [user type], I want [functionality] so that [goal]."
+      Acceptance Criteria: (Conditions that must be met for the feature to be accepted)
+ 5. Non-Functional Requirements
+      Performance Requirements: (e.g., response time, load capacity)
+      Security Requirements: (e.g., authentication, authorization)
+      Usability Requirements: (e.g., accessibility standards)
+      Scalability Requirements: (e.g., expected growth, geographical considerations)
+ 6. Technical Requirements
+      Technology Stack: (Preferred technologies, frameworks, languages)
+      Integration Requirements: (APIs, third-party services)
+      Data Management: (Databases, data formats, storage solutions)
+ 7. Stakeholder Requirements
+      Stakeholder: (Name or role)
+      Requirements: (Specific needs or expectations from the stakeholder)
+ 8. Constraints and Limitations
+      Budget Constraints: (Budget limitations)
+      Timeline Constraints: (Project deadlines)
+      Technical Constraints: (Limitations imposed by existing systems or technologies)
+ 9. Assumptions
+      (List any assumptions that are being made about the project, users, or technology)
+ 10. Risks
+      Risk: (Description of potential risks)
+      Impact: (High, Medium, Low)
+      Mitigation Strategy: (How will this risk be managed?)
+ 11. Review and Approval
+      Reviewed by: (List of individuals who will review the requirements)
+      Approval Date:
+      Comments:
